@@ -13,5 +13,9 @@ image1: ../../img/droplet/droplet-1.png
 image2: ../../img/droplet/droplet-2.png
 image3: ../../img/droplet/droplet-3.png
 image4: ../../img/droplet/droplet-4.png
+image1Alt: light crypto finance website template for figma
+image2Alt: crypto finance website template for figma thumbnail
+image3Alt: close up of crypto finance website template for figma
+image4Alt: dark crypto finance website template for figma
 status: 
 isDisabled: 

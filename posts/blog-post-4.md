@@ -13,5 +13,9 @@ image1: ../../img/hendriks/hendriks-1.png
 image2: ../../img/hendriks/hendriks-2.png
 image3: ../../img/hendriks/hendriks-3.png
 image4: ../../img/hendriks/hendriks-4.png
+image1Alt: logo for hendriks development with glitchy background
+image2Alt: horizontal pattern for hendriks development
+image3Alt: logo for hendriks development on plain royal blue background
+image4Alt: logo for hendriks development with accompanying text
 status: 
 isDisabled: 

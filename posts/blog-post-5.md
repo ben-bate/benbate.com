@@ -13,5 +13,9 @@ image1: ../../img/nftwow/nftwow-1.png
 image2: ../../img/nftwow/nftwow-2.png
 image3: ../../img/nftwow/nftwow-3.png
 image4: ../../img/nftwow/nftwow-4.png
+image1Alt: nft light website template for figma
+image2Alt: nft light website template thumbnail
+image3Alt: nft light and dark website and mobile template for figma
+image4Alt: nft dark website template for figma
 status: 
 isDisabled: 

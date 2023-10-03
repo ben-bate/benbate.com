@@ -13,5 +13,9 @@ image1: ../../img/bhcf/bhcf-1.png
 image2: 
 image3: 
 image4: ../../img/bhcf/bhcf-4.png
+image1Alt: logo for black homeschoolers of central florida
+image2Alt: 
+image3Alt: 
+image4Alt: image of a student making notes
 status: 
 isDisabled: 

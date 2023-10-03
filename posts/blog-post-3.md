@@ -13,5 +13,9 @@ image1: ../../img/ios/ios-1.png
 image2: ../../img/ios/ios-2.png
 image3: ../../img/ios/ios-3.png
 image4: ../../img/ios/ios-4.png
+image1Alt: selected iphone app designs including finance, stocks, and music apps
+image2Alt: television app for sports channels
+image3Alt: video-watching app
+image4Alt: minimal messaging app
 status: 
 isDisabled: 

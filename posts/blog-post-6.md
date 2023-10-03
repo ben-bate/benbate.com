@@ -13,5 +13,9 @@ image1: ../../img/android/android-1.png
 image2: ../../img/android/android-2.png
 image3: ../../img/android/android-3.png
 image4: ../../img/android/android-4.png
+image1Alt: selected android app designs including settings, messaging, and email apps
+image2Alt: dark android settings app design
+image3Alt: light android messaging app design
+image4Alt: light email android app design
 status: 
 isDisabled: 
