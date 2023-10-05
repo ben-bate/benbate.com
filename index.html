@@ -3,25 +3,25 @@ layout: home-layout.liquid
 pageTitle: Ben Bate - Brand, Website & Digital Product Designer
 ---
 
-{% for post in collections.posts %}
+{% for work in collections.work %}
 
-    <a class="card flex p-4 h-96 bg-{{ post.data.pageImage }} rounded-3xl items-end hover:no-underline hover:opacity-75 {{ post.data.isDisabled }}" href="{{ post.url }}">
+    <a class="card flex p-4 h-96 bg-{{ work.data.pageImage }} rounded-3xl items-end hover:no-underline hover:opacity-75 {{ work.data.isDisabled }}" href="{{ work.url }}">
         <div class="flex flex-row bg-white p-6 rounded-lg w-full caption text-sm">
-            <p class="hidden w-1/5 sm:flex">({{ post.data.pageNumber }}/10)</p>
+            <p class="hidden w-1/5 sm:flex">({{ work.data.pageNumber }}/10)</p>
 
             <div class="w-full sm:w-4/5">
 
                 <div class="mb-2 flex flex-row justify-between">
 
-                    <p>{{ post.data.pageTitle }}</p>
+                    <p>{{ work.data.pageTitle }}</p>
 
-                    <p class="color-dark-brand">{{ post.data.status }}</p>
+                    <p class="color-dark-brand">{{ work.data.status }}</p>
 
                 </div>
 
-                <p class="mb-4">{{ post.data.pageDesc }}</p>
+                <p class="mb-4">{{ work.data.pageDesc }}</p>
 
-                <p class="flex flow-row justify-between text-xs text-gray-500"><span> ⚹ &nbsp;{{ post.data.pagePoint1 }}</span><span>{{ post.data.pagePoint2 }}</span></p>
+                <p class="flex flow-row justify-between text-xs text-gray-500"><span> ⚹ &nbsp;{{ work.data.pagePoint1 }}</span><span>{{ work.data.pagePoint2 }}</span></p>
 
             </div>
         </div>
