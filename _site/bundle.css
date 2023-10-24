@@ -68,8 +68,16 @@ a:hover {
     border-color: #E2E3CF;
 }
 
+.color-brand {
+    color: #efff8e;
+}
+
 .bg-brand {
     background-color: #efff8e;
+}
+
+.bg-dark-brand {
+    background-color: #EFF0E6;
 }
 
 .bg-pale-brand {

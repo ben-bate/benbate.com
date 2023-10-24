@@ -36,4 +36,17 @@ layout: shell.liquid
                     <img src="{{ image4 }}" alt="{{ image4Alt }}" class="rounded-3xl col-span-2 w-full">
                 </main>
 
-            </div>
+                <div class="flex sm:flex-row flex-col mt-4 sm:mt-8 gap-4 sm:gap-8 text-center">
+
+                    {% assign previousPost = collections.work | getPreviousCollectionItem %}
+                    {% assign nextPost = collections.work | getNextCollectionItem %}
+
+                    {% if previousPost %}
+                        <a class="p-4 bg-dark-brand rounded-lg w-full" href="{{ previousPost.url }}">Previous: {{ previousPost.data.pageTitle }}</a>
+                    {% endif %}
+
+                    {% if nextPost %}
+                        <a class="p-4 bg-dark-brand rounded-lg w-full" href="{{ nextPost.url }}">Next: {{ nextPost.data.pageTitle }}</a>
+                    {% endif %}
+
+                </div>
