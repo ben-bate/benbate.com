@@ -42,11 +42,11 @@ layout: shell.liquid
                     {% assign nextPost = collections.work | getNextCollectionItem %}
 
                     {% if previousPost %}
-                        <a class="p-4 bg-dark-brand rounded-lg w-full" href="{{ previousPost.url }}">Previous: {{ previousPost.data.pageTitle }}</a>
+                        <a class="p-4 bg-dark-brand rounded-full w-full" href="{{ previousPost.url }}">Previous: {{ previousPost.data.pageTitle }}</a>
                     {% endif %}
 
                     {% if nextPost %}
-                        <a class="p-4 bg-dark-brand rounded-lg w-full" href="{{ nextPost.url }}">Next: {{ nextPost.data.pageTitle }}</a>
+                        <a class="p-4 bg-dark-brand rounded-full w-full" href="{{ nextPost.url }}">Next: {{ nextPost.data.pageTitle }}</a>
                     {% endif %}
 
                 </div>

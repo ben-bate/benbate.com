@@ -56,6 +56,10 @@ a:hover {
     background: url("img/art.png") no-repeat;
 }
 
+.bg-cradle {
+    background: url("img/cradle.png") no-repeat;
+}
+
 .border-dark-brand {
     border-color: #def361;
 }
