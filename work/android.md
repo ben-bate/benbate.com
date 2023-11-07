@@ -1,7 +1,7 @@
 ---
 tags: work
-pageNumber: 6
-date: 2023-01-06
+pageNumber: 10
+date: 2023-01-10
 pageTitle: Android
 pageDesc: Selected app designs for the Android mobile operating system, produced using Material Design as a basis.
 pageDescFull: Selected app designs for the Android mobile operating system, produced using Material Design as a basis. I have designed mobile apps with millions of monthly active users. </br></br><a href="mailto:e@benbate.com">Get in touch</a> for more examples and live projects.
