@@ -1,7 +1,7 @@
 ---
 tags: work
-pageNumber: 7
-date: 2023-01-07
+pageNumber: 8
+date: 2023-01-08
 pageTitle: Mispelt
 pageDesc: Visual identity and packaging for Mispelt, a small producer of unique hand-crafted, hand-bound, blank notebooks.
 pageDescFull: Visual identity and packaging for Mispelt, a small producer of unique hand-crafted, hand-bound, blank notebooks.

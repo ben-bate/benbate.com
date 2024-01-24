@@ -1,7 +1,7 @@
 ---
 tags: work
-pageNumber: 5
-date: 2023-01-05
+pageNumber: 6
+date: 2023-01-06
 pageTitle: Cradle
 pageDesc: Mobile app design, branding, and digital advertisement design for parent-focused auction app, Cradle.
 pageDescFull: Cradle is a parent-focused auction app for Android and iOS. The startup required full mobile app design, branding, and digital advertisement designs. </br></br>The app is currently in development and due to launch in early 2024.

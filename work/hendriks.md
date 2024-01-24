@@ -1,7 +1,7 @@
 ---
 tags: work
-pageNumber: 4
-date: 2023-01-04
+pageNumber: 5
+date: 2023-01-05
 pageTitle: Hendriks Development
 pageDesc: Identity for Hendriks Development, a web studio specialising in front-end development that launched in 2011.
 pageDescFull: Identity for Hendriks Development, a web studio specialising in front-end development that launched in 2011.</br></br>Website no longer active.

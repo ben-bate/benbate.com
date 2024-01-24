@@ -1,7 +1,7 @@
 ---
 tags: work
-pageNumber: 8
-date: 2023-01-08
+pageNumber: 9
+date: 2023-01-09
 pageTitle: Droplet
 pageDesc: Responsive, easily customizable, component-based website template for Figma, designed for cypto-orientated startups.
 pageDescFull: Droplet was a customizable, component-based website template for Figma, designed for crypto and finance-related startups. Released to the Figma community in 2022, the template received thousands of downloads in its first week. It was later retired in order to focus on other personal projects.</br></br><a href="https://figma.com/community">figma.com/community</a>

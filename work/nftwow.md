@@ -1,7 +1,7 @@
 ---
 tags: work
-pageNumber: 6
-date: 2023-01-06
+pageNumber: 7
+date: 2023-01-07
 pageTitle: NFTwow
 pageDesc: Customizable, component-based website template for Figma, designed for NFT-related startups.
 pageDescFull: NFTwow was a customizable, component-based website template for Figma, designed for NFT and art-related startups. Released to the Figma community in 2022, the template received thousands of downloads in its first week and was also developed into an accompanying website theme by a community member. It was later retired in order to focus on other personal projects.</br></br><a href="https://figma.com/community">figma.com/community</a>
